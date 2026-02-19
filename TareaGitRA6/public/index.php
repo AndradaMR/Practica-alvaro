@@ -8,3 +8,6 @@ echo "<p>Estado del sistema: <span style='color:red'>Sin estilos</span></p>";
 <script src="js/main.js"></script>
 
 //Fernando Chavez
+//Laura Basurto Teno
+//Andrada María Robitu
+ 
