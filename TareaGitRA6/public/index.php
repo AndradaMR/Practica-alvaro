@@ -11,3 +11,9 @@ echo "<p>Estado del sistema: <span style='color:red'>Sin estilos</span></p>";
 </head>
 
 // Cristina Gonzalez Ortas
+<script src="js/main.js"></script>
+
+//Fernando Chavez
+//Laura Basurto Teno
+//Andrada María Robitu
+ 
