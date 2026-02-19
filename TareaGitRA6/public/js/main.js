@@ -1,14 +1,13 @@
 console.log("Cargando lógica de frontend...");
 
-// TICKET B: El junior dejó un bucle infinito
+// TICKET B: Función corregida
 function procesarDatos() {
     let contador = 0;
     while (contador < 5) {
         console.log("Procesando bloque: " + contador);
-        // Error: Falta el contador++;
+        contador++; // Incrementamos el contador para salir del bucle
     }
 }
 
-// Para evitar que el navegador se cuelgue al abrirlo la primera vez, 
-// la llamada está comentada. El alumno debe arreglarla y descomentarla.
-// procesarDatos();
+// Llamada descomentada ahora que la función está corregida
+procesarDatos();
