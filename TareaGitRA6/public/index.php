@@ -6,3 +6,8 @@ echo "<p>Estado del sistema: <span style='color:red'>Sin estilos</span></p>";
 // El Alumno B arreglará el JS que se carga aquí:
 ?>
 <script src="js/main.js"></script>
+
+//Andrada María Robitu
+//Cristina Gonzalez Ortas
+//Laura Basurto Teno
+//Fernando Chavez 
