@@ -6,3 +6,5 @@ echo "<p>Estado del sistema: <span style='color:red'>Sin estilos</span></p>";
 // El Alumno B arreglará el JS que se carga aquí:
 ?>
 <script src="js/main.js"></script>
+
+//Laura Basurto Teno
