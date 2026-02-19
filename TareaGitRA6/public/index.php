@@ -9,3 +9,5 @@ echo "<p>Estado del sistema: <span style='color:red'>Sin estilos</span></p>";
 <link rel="stylesheet" href="css/style.css">
 <script src="js/main.js"></script>
 </head>
+
+// Cristina Gonzalez Ortas
